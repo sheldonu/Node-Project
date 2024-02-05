@@ -1,0 +1,29 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publicationYear": 1925,
+        "genre": "Fiction",
+        "characters": ["Jay Gatsby", "Daisy Buchanan", "Nick Carraway"],
+        "rating": 4.5,
+        "format": "Paperback"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publicationYear": 1960,
+        "genre": "Historical Fiction",
+        "characters": ["Atticus Finch", "Scout Finch", "Boo Radley"],
+        "rating": 4.8,
+        "format": "Hardcover"
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "publicationYear": 1979,
+        "genre": "Science Fiction",
+        "characters": ["Arthur Dent", "Ford Prefect", "Zaphod Beeblebrox"],
+        "rating": 4.2,
+        "format": "Paperback"
+    }
+]

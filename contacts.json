@@ -1,0 +1,23 @@
+[
+    {
+      "firstName": "Sheldon",
+      "lastName": "Uchytil",
+      "email": "deustcherjung@test.com",
+      "favoriteColor": "Blue",
+      "birthday": "10/26/99"
+    },
+    {
+        "firstName": "Julia",
+        "lastName": "Uchytil",
+        "email": "deustchermaedchen@test.com",
+        "favoriteColor": "Purple",
+        "birthday": "04/13/98"
+    },
+    {
+        "firstName": "Josh",
+        "lastName": "Hartman",
+        "email": "deustcherjungster@test.com",
+        "favoriteColor": "Green",
+        "birthday": "03/23/08"
+    }
+]
