@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/sheldonu/Node-Project/issues"
   },
-  "homepage": "https://github.com/sheldonu/Node-Project#readme",
+  "homepage": "https://github.com/sheldonu/Node-Project",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.1",
