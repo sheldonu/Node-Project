@@ -8,7 +8,7 @@
   "host": "nodeproject-8fpn.onrender.com",
   "basePath": "/",
   "schemes": [
-    "https"
+    "http"
   ],
   "paths": {
     "/api-docs": {
