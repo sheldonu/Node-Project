@@ -113,6 +113,8 @@ Content-Type: application/json
 DELETE https://nodeproject-e9rt.onrender.com/contacts/65c2610a47f26d74a1b0e6ef HTTP/1.1
 
 
+
+
 ### Get all books
 GET https://nodeproject-e9rt.onrender.com/books HTTP/1.1
 
@@ -124,17 +126,17 @@ POST https://nodeproject-e9rt.onrender.com/books HTTP/1.1
 Content-Type: application/json
 
 {
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "publicationYear": 1925,
-    "genre": "Fiction",
-    "characters": ["Jay Gatsby", "Daisy Buchanan", "Nick Carraway"],
-    "rating": 4.5,
-    "format": "Paperback"
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publicationYear": 1937,
+    "genre": "Fantasy",
+    "characters": ["Bilbo Baggins", "Gandalf", "Thorin Oakenshield"],
+    "rating": 4.9,
+    "format": "Hardcover"
 }
 
 ### Update book
-PUT https://nodeproject-e9rt.onrender.com/books/65c165b47398db3bad4238d5 HTTP/1.1
+PUT https://nodeproject-e9rt.onrender.com/books/65c26cb69163a74c3a84c3da HTTP/1.1
 Content-Type: application/json
 
 {
@@ -144,8 +146,8 @@ Content-Type: application/json
     "genre": "Fiction",
     "characters": ["Jay Gatsby", "Daisy Buchanan", "Nick Carraway"],
     "rating": 4.5,
-    "format": "Paperback"
+    "format": "Hardcover"
 }
 
 ### Delete book
-DELETE https://nodeproject-e9rt.onrender.com/books/65b4b0a449bf2a3721935949 HTTP/1.1
+DELETE https://nodeproject-e9rt.onrender.com/books/65c26cb69163a74c3a84c3da HTTP/1.1
