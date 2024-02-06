@@ -110,7 +110,7 @@ Content-Type: application/json
 }
 
 ### Delete contact
-DELETE https://nodeproject-e9rt.onrender.com/contacts/65c2610a47f26d74a1b0e6ef HTTP/1.1
+DELETE https://nodeproject-e9rt.onrender.com/contacts/65c27068451ea25590598396 HTTP/1.1
 
 
 
@@ -119,7 +119,7 @@ DELETE https://nodeproject-e9rt.onrender.com/contacts/65c2610a47f26d74a1b0e6ef H
 GET https://nodeproject-e9rt.onrender.com/books HTTP/1.1
 
 ### Get books by id
-GET https://nodeproject-e9rt.onrender.com/books/65c165b47398db3bad4238d5 HTTP/1.1
+GET https://nodeproject-e9rt.onrender.com/books/65c167817398db3bad4238d8 HTTP/1.1
 
 ### Create book
 POST https://nodeproject-e9rt.onrender.com/books HTTP/1.1
