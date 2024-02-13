@@ -132,6 +132,5 @@ const deleteContactBooks = async (req, res) => {
 };
 
 
-module.exports = { getAll, getSingle, createContact, updateContact, 
-  deleteContact, getAllBooks, getSingleBooks, createContactBooks, 
-  updateContactBooks, deleteContactBooks };
+module.exports = { getAll, getSingle, createContact, updateContact, deleteContact, 
+  getAllBooks, getSingleBooks, createContactBooks, updateContactBooks, deleteContactBooks };
