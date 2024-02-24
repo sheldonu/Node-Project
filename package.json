@@ -20,9 +20,11 @@
   },
   "homepage": "https://github.com/sheldonu/Node-Project#readme",
   "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.1",
     "express": "^4.18.2",
+    "googleapis": "^105.0.0",
     "mongodb": "^6.3.0",
     "swagger-ui-express": "^5.0.0",
     "validatorjs": "^3.22.1"
